@@ -95,12 +95,15 @@
 
 ---
 
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MA1ya1nk&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MA1ya1nk&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MA1ya1nk&show_icons=true&count_private=true&theme=dark" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MA1ya1nk&theme=dark" height="165" />
 </p>
+
 
 ---
 
