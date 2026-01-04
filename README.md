@@ -104,6 +104,14 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MA1ya1nk/MA1ya1nk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
